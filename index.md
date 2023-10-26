@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), advised by [Yue Li](https://cs.nju.edu.cn/yueli/) who co-runs the [PASCAL Research Group](https://pascal-lab.net/) with [Tian Tan](https://cs.nju.edu.cn/tiantan/).
+I am a Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en/), advised by [Yue Li](https://cs.nju.edu.cn/yueli/) who co-runs the [PASCAL Research Group](https://pascal-lab.net/) with [Tian Tan](https://cs.nju.edu.cn/tiantan/).
 
 ## Research Interests
 
 - **Programing Language (PL) :** programing language theory, design and implementation
 - **Static Program Analysis :** dataflow analysis, pointer analysis, taint analysis, bug detection, etc.
-- **Electronic Design Automation (EDA) :** design analysis and verification at register transfer level
+- **Electronic Design Automation (EDA) :** hardware design analysis and verification at register transfer level
 
 ## News
 

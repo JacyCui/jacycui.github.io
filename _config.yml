@@ -1,7 +1,9 @@
 # Basic Information 
-title: Jiacai Cui / 崔家才
+title: Jiacai Cui
+title_zh: 崔家才
 position: Ph.D Student
 affiliation: Nanjing University
+affiliation_link: https://www.nju.edu.cn/en/
 email: 201220014@smail.nju.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -52,9 +54,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - html_source_file/
