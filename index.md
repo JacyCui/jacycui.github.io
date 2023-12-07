@@ -14,6 +14,7 @@ I am a Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en/), advise
 
 ## News
 
+- **[Sept. 2023]** Attend [ChinaSoft](https://chinasoft.ccf.org.cn/) conference.
 - **[May. 2023]** Attend [ISEDA](https://www.aconf.org/conf_190991.html) conference.
 - **[Jul. 2022]** Join [PASCAL](https://pascal-lab.net/) research group.
 
