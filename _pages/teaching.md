@@ -16,6 +16,6 @@ nav_order: 3
 
 ### Online Tutorials (in Chinese)
 
-- [Static Program Analysis](https://static-analysis.cuijiacai.com/) (2022)
-- [Formal Language and Automata](https://fla.cuijiacai.com/) (2022)
-- [Introduction to Algorithm](https://algorithm.cuijiacai.com/) (2023)
+- [Static Program Analysis](https://static-analysis.cuijiacai.com/)
+- [Formal Language and Automata](https://fla.cuijiacai.com/)
+- [Introduction to Algorithm](https://algorithm.cuijiacai.com/)
