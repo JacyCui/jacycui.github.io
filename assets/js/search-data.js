@@ -31,13 +31,6 @@ ninja.data = [{
             window.location.href = "/awards/";
           },
         },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6A%69%61%63%61%69%63%75%69@%73%6D%61%69%6C.%6E%6A%75.%65%64%75.%63%6E", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
