@@ -1,3 +1,7 @@
 "POPL 2026":
   url: https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/20/ChiSA-Static-Analysis-for-Lightweight-Chisel-Verification
   color: "#20224b"
+
+"Qihe Project":
+  url: https://qihe.pascal-lab.net/
+  color: "#293871"
