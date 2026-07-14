@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/
 title: Awards
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 - <span style="color:#2490fc">Outstanding Graduate Award</span> of NJU China, 2024

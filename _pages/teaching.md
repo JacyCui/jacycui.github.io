@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 学然后知不足，教然后知困。——《礼记·学记》
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ### Teaching Assistants
