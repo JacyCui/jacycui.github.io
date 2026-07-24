@@ -4,11 +4,13 @@ title: Qihe (骑河)
 description: A General-Purpose Static Analysis Framework for Verilog
 img: assets/img/projects/qihe/logo.png
 importance: 1
+related_publications: true
 ---
 
 **Qihe (骑河)** is the first general-purpose static analysis framework for Verilog.
 It offers a comprehensive suite of analyses tailored for diverse hardware analysis tasks.
-Please visit our [website](https://qihe.pascal-lab.net/) to access Qihe!
+To access full open-source code of Qihe, please visit our [website](https://qihe.pascal-lab.net/)!
+To learn about Qihe's research insights, please read our PLDI paper {% cite pldi26qihe %} and technical report {% cite arxiv26qihe %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

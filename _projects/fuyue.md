@@ -16,4 +16,3 @@ These materials provide a glimpse into the project's development state and preli
 I am continuing to improve Fuyue toward a mature release that supports broader usage and welcomes external contributions.
 I look forward to sharing Fuyue with the community once it is ready. :)
 
-<br>
