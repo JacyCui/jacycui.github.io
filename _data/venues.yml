@@ -6,6 +6,10 @@
   url: https://pldi26.sigplan.org/details/pldi-2026-papers/57/Exploiting-Sophisticated-Static-Analysis-for-Verilog
   color: "#cea25b"
 
+"OOPSLA 2026":
+  url: https://2026.splashcon.org/
+  color: "#28b7b2"
+
 "Qihe Project":
   url: https://qihe.pascal-lab.net/
   color: "#293871"
