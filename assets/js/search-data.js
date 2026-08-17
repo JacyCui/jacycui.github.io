@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "projects-fuyue-符钺",
           title: 'Fuyue (符钺)',
-          description: "A Full-Stack Program Analysis Platform for Chisel (Not Yet Released)",
+          description: "A Unified Program Analysis Framework for Chisel (Not Yet Released)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fuyue/";
             },},{id: "projects-qihe-骑河",
