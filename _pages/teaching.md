@@ -9,6 +9,7 @@ nav_order: 4
 
 ### Teaching Assistants
 
+- [Structure and Interpretation of Computer Programs](https://sicp.pascal-lab.net/2026/) (Fall 2026). Nanjing University.
 - [Structure and Interpretation of Computer Programs](https://sicp.pascal-lab.net/2025/) (Fall 2025). Nanjing University.
 - [Structure and Interpretation of Computer Programs](https://sicp.pascal-lab.net/2024/) (Fall 2024). Nanjing University.
 - [Software Analysis (Static Program Analysis)](https://tai-e.pascal-lab.net/en/lectures.html) (Fall 2024). Nanjing University.
