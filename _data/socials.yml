@@ -5,7 +5,7 @@
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
-# acm_id: # your dl.acm.org/profile/id
+# acm_id: 99661796029 # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
@@ -13,7 +13,7 @@
 # email: jiacaicui@smail.nju.edu.cn # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: JacyCui # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -27,7 +27,7 @@
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0009-0001-4922-887X # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
